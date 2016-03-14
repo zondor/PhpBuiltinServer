@@ -1,5 +1,5 @@
 {
-    "name": "codeception/phpbuiltinserver",
+    "name": "zondor/phpbuiltinserver",
     "description": "PhpBuiltinServer extension for Codeception",
     "keywords": ["codeception"],
     "minimum-stability": "stable",
